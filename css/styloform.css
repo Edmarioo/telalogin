@@ -1,0 +1,47 @@
+body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.area{
+    background-color: #fff;
+    width: 100%;
+    max-width: 330px;
+    height: 600px;
+    text-align: center;
+    padding: 10px;
+    border:#000 solid 1px ;
+    border-radius: 10px 10px 10px 10px;
+}
+h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+.log-secundario{
+    width: 50px;
+    height: 50px;
+    line-height: 10px;
+
+}
+
+
+.remember{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.gray{
+    color: #999999
+}
+
+.padding{
+    padding: 20px;
+}
